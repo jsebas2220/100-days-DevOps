@@ -1,1 +1,1 @@
-# 100 days of devops
+# 100 DAYS OF DEVOPS
